@@ -21,5 +21,6 @@ https://thameera.com/awsip/
 - region data generated here 
   - https://github.com/jsonmaur/aws-regions
   - https://raw.githubusercontent.com/jsonmaur/aws-regions/master/regions.json
-- aws ip information generated here (https://github.com/joetek/aws-ip-ranges-json
+- aws ip information generated here
+  - https://github.com/joetek/aws-ip-ranges-json
   - https://github.com/joetek/aws-ip-ranges-json/blob/master/ip-ranges-amazon.json
